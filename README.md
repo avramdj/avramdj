@@ -1,2 +1,1 @@
-### Avram Đorđević
-[avramdj.github.io](https://avramdj.github.io)
+### 👋 [avramdj.github.io](https://avramdj.github.io)
