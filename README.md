@@ -1,3 +1,3 @@
 ## Avram Đorđević 👋
 <!-- ##### 💻 👨‍🍳 cooking in vscode -->
-#### [avramdj.github.io](https://avramdj.github.io)
+#### [See portfolio](https://avramdj.github.io)
