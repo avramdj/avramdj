@@ -1,2 +1,2 @@
 ## Avram Đorđević 👋
-<!-- ##### 💻 👨‍🍳 cooking in vscode -->
+![](https://komarev.com/ghpvc/?username=avramdj)
