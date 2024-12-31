@@ -3,4 +3,4 @@ Machine learning researcher, engineer, enthusiast, builder.
 
 I love full stack involvement from compilers/c++/cuda, python and pytorch, to deployment and devops.
 
-Performance and scale.
+Performance ∩ Scale
