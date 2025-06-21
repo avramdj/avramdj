@@ -3,4 +3,4 @@ Machine learning researcher, engineer, enthusiast, builder.
 
 Performance ∩ Scale
 
-[Book a call](https://calendly.com/avramdjordjevic2/30min)
+<!-- [Book a call](https://calendly.com/avramdjordjevic2/30min) -->
