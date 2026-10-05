@@ -1,3 +1,3 @@
-training models @ [krea-ai](https://github.com/krea-ai)
+loading optimizer states
 
 [blog](https://avramdj.github.io/)
